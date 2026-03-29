@@ -19,12 +19,17 @@ public class Roaster {
     private static final String VITI_NAME = "Llanepasto13";
     private static final Random rand = new Random();
     private static final List<String> roasts = List.of(
-            "Viti codigo acoplado1",
-            "Viti codigo acoplado2",
-            "Viti codigo acoplado3",
-            "Viti codigo acoplado4",
-            "Viti codigo acoplado5",
-            "Viti codigo acoplado6"
+            "Viti tiene el código muy acoplado y las clases muy poco cohesivas",
+            "Viti no sabe salir de vim",
+            "Viti cree que no es un bug, que es una feature",
+            "Viti es vibecoder",
+            "EL lenguaje de programación favorito de Viti es html",
+            "Viti es desarrollador frontend",
+            "El sueño de Viti es poder correr javascript en cualquier sitio",
+            "Si Victor callara la boca el mundo sería mejor",
+            "Viti cree que una funcion y un metodo es lo mismo",
+            "Viti no recuerda la ultima vez que escribio documéntación",
+            "Los automatas de Viti son infinitos y no determinísticos"
     );
 
     @SubscribeEvent(priority = EventPriority.NORMAL)
