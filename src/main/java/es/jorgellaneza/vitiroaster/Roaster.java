@@ -29,7 +29,8 @@ public class Roaster {
             "Si Victor callara la boca el mundo sería mejor",
             "Viti cree que una funcion y un metodo es lo mismo",
             "Viti no recuerda la ultima vez que escribio documéntación",
-            "Los automatas de Viti son infinitos y no determinísticos"
+            "Los automatas de Viti son infinitos y no determinísticos",
+"Viti usa un bucle for para buscar en una base de datos de 10.000.000 de filas"
     );
 
     @SubscribeEvent(priority = EventPriority.NORMAL)
