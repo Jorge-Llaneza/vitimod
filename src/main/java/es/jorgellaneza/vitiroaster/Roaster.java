@@ -32,7 +32,8 @@ public class Roaster {
             "Los automatas de Viti son infinitos y no determinísticos",
 "Viti usa un bucle for para buscar en una base de datos de 10.000.000 de filas",
 "El cerebro de Viti es null",
-"El cerebro de Viti es una interfaz, no está implementado"
+"El cerebro de Viti es una interfaz, no está implementado", 
+"Viti usa instanceof"
     );
 
     @SubscribeEvent(priority = EventPriority.NORMAL)
