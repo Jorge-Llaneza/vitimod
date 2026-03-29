@@ -30,7 +30,9 @@ public class Roaster {
             "Viti cree que una funcion y un metodo es lo mismo",
             "Viti no recuerda la ultima vez que escribio documéntación",
             "Los automatas de Viti son infinitos y no determinísticos",
-"Viti usa un bucle for para buscar en una base de datos de 10.000.000 de filas"
+"Viti usa un bucle for para buscar en una base de datos de 10.000.000 de filas",
+"El cerebro de Viti es null",
+"El cerebro de Viti es una interfaz, no está implementado"
     );
 
     @SubscribeEvent(priority = EventPriority.NORMAL)
